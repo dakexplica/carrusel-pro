@@ -39,7 +39,7 @@ También puedes usar el botón verde **Code → Download ZIP** de esta página: 
 
 ## Pruébala con esto
 
-> Hazme un carrusel de 6 láminas sobre cómo preparar un buen café en casa, para la cuenta de una cafetería.
+> Usando la skill carrusel-pro, hazme un carrusel de 6 láminas sobre cómo preparar un buen café en casa, para la cuenta de una cafetería.
 
 Más herramientas gratis: **[dakexplica.derekavelar.com](https://dakexplica.derekavelar.com)** · [github.com/dakexplica](https://github.com/dakexplica)
 
