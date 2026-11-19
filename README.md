@@ -10,17 +10,22 @@ Solo esta herramienta, lista para subir a Claude (no la descomprimas).
 
 ## Instalar
 
-### En Claude Code (con un comando)
+### En Claude Code (lo más fácil)
+Pega esto en Claude Code: *"Instala la skill carrusel-pro con `npx skills add dakexplica/carrusel-pro`. Antes revisa que tenga Node.js, Python 3 y Pillow; si falta algo, pídeme permiso para instalarlo."*
+
+O en la Terminal:
 
 ```bash
 npx skills add dakexplica/carrusel-pro
 ```
 
-### En la app de Claude (lo más fácil)
+### En la app de Claude
 1. Toca **⬇️ Descargar carrusel-pro.zip** (arriba). Déjalo así, no lo abras.
-2. Abre Claude, toca tu nombre abajo a la izquierda y entra a **Configuración → Capacidades**.
-3. En **Skills**, dale a **Subir skill** y elige el archivo. Si no te aparece, enciende antes **Ejecución de código**.
+2. En Claude: tu nombre (abajo a la izquierda) → **Configuración → Capacidades** → enciende **Crear y editar archivos**.
+3. **Personalizar → Skills → + → Crear skill → Subir una skill** y elige el .zip.
 4. ¡Listo! Abre un chat nuevo y pídele un carrusel.
+
+*(En inglés: Settings → Capabilities → Create and edit files; Customize → Skills → Upload a skill.)*
 
 También puedes usar el botón verde **Code → Download ZIP** de esta página: baja solo esta herramienta.
 
