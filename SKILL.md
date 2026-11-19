@@ -16,6 +16,14 @@ Archivos de la skill:
 
 ---
 
+## Paso 0 · Revisa que esté todo listo (antes de la entrevista)
+
+No des por hecho que la persona tiene lo mismo que tú. Antes de empezar, en silencio:
+1. Comprueba que hay **Python 3** (`python3 --version`) y la librería **Pillow** (`python3 -c "import PIL"`).
+2. Si estás en la app de Claude (con "Crear y editar archivos" encendido), ya vienen: sigue.
+3. Si falta algo (por ejemplo en Claude Code): explícale en una frase qué es y para qué lo necesitas ("Pillow es la herramienta con la que dibujo las láminas"), **pídele permiso** y solo entonces instálalo (`pip install pillow` o `python3 -m pip install --user pillow`). Si no se puede instalar, dile exactamente qué hacer y no sigas a medias.
+4. Si todo está bien, no digas nada de esto: ve directo a la entrevista.
+
 ## Paso 1 · La entrevista (SIEMPRE al empezar)
 
 Pregunta en **rondas cortas, con opciones numeradas**, para que la persona conteste rápido (si tu entorno tiene una herramienta de preguntas con opciones, úsala). Siempre incluye "Decide tú" como opción. Si la persona ya contestó algo en su primer mensaje, no lo vuelvas a preguntar. Si dice "hazlo tú todo", salta a lo que falte con tu mejor criterio y dilo en una línea.
