@@ -1,0 +1,188 @@
+{
+ "marca": {
+  "usuario": "@fuerzaclub",
+  "colores": {
+   "fondo": "#F3F4F6",
+   "tinta": "#111111",
+   "acento": "#DC2626"
+  }
+ },
+ "plantilla": "minimal",
+ "formato": "ambos",
+ "slides": [
+  {
+   "tipo": "portada",
+   "etiqueta": "Entrena mejor",
+   "titulo": "3 errores que *frenan* tu progreso",
+   "dibujo": [
+    [
+     "rect",
+     8,
+     44,
+     18,
+     76,
+     4,
+     "acento",
+     "tinta"
+    ],
+    [
+     "rect",
+     18,
+     36,
+     28,
+     84,
+     4,
+     "claro",
+     "tinta"
+    ],
+    [
+     "rect",
+     28,
+     56,
+     72,
+     64,
+     3,
+     "tinta",
+     "tinta"
+    ],
+    [
+     "rect",
+     72,
+     36,
+     82,
+     84,
+     4,
+     "claro",
+     "tinta"
+    ],
+    [
+     "rect",
+     82,
+     44,
+     92,
+     76,
+     4,
+     "acento",
+     "tinta"
+    ],
+    [
+     "poligono",
+     [
+      50,
+      8,
+      54,
+      20,
+      66,
+      22,
+      56,
+      30,
+      60,
+      42,
+      50,
+      35,
+      40,
+      42,
+      44,
+      30,
+      34,
+      22,
+      46,
+      20
+     ],
+     "acento",
+     "none"
+    ]
+   ]
+  },
+  {
+   "tipo": "punto",
+   "num": 1,
+   "titulo": "Saltarte el *calentamiento*",
+   "texto": "5 minutos de movilidad antes de empezar.",
+   "dibujo": [
+    [
+     "arco",
+     50,
+     34,
+     20,
+     180,
+     360,
+     "tinta",
+     {
+      "grosor": 7
+     }
+    ],
+    [
+     "linea",
+     [
+      30,
+      34,
+      30,
+      46
+     ],
+     "tinta",
+     {
+      "grosor": 7
+     }
+    ],
+    [
+     "linea",
+     [
+      70,
+      34,
+      70,
+      46
+     ],
+     "tinta",
+     {
+      "grosor": 7
+     }
+    ],
+    [
+     "circulo",
+     50,
+     66,
+     30,
+     "acento",
+     "tinta"
+    ],
+    [
+     "rect",
+     38,
+     58,
+     62,
+     72,
+     4,
+     "claro",
+     "none"
+    ],
+    [
+     "curva",
+     [
+      86,
+      20,
+      92,
+      12,
+      94,
+      24
+     ],
+     "none",
+     "acento"
+    ],
+    [
+     "circulo",
+     12,
+     24,
+     4,
+     "acento",
+     "none"
+    ]
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Guárdalo para tu *próximo entreno*",
+   "cta": "Síguenos"
+  }
+ ]
+}

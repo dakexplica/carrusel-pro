@@ -1,0 +1,10 @@
+{"marca": {"usuario": "@aprendeexcel", "colores": {"fondo": "#FFFFFF", "tinta": "#14213D", "acento": "#1D9A6C"}},
+ "plantilla": "minimal", "formato": "instagram",
+ "slides": [
+  {"tipo": "portada", "etiqueta": "Excel fácil", "titulo": "5 atajos que te ahorran *1 hora* al día", "subtitulo": "Guárdalo, el 4 es oro.",
+   "dibujo": [["rect", 10, 14, 90, 86, 8, "fondo", "tinta"], ["rect", 10, 14, 90, 30, 8, "acento", "tinta"],
+              ["linea", [10, 50, 90, 50], "suave"], ["linea", [10, 68, 90, 68], "suave"], ["linea", [36, 30, 36, 86], "suave"], ["linea", [63, 30, 63, 86], "suave"],
+              ["rect", 40, 54, 60, 64, 2, "claro", "acento"],
+              ["poligono", [62, 60, 62, 92, 70, 84, 76, 96, 82, 93, 76, 81, 86, 80], "tinta", "fondo"]]},
+  {"tipo": "cierre", "titulo": "Menos clics, *más tiempo libre*", "cta": "Síguenos"}
+ ]}

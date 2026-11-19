@@ -1,0 +1,199 @@
+{
+ "marca": {
+  "usuario": "@ahorrafacil",
+  "colores": {
+   "fondo": "#FFFFFF",
+   "tinta": "#111111",
+   "acento": "#16A34A"
+  }
+ },
+ "plantilla": "minimal",
+ "formato": "ambos",
+ "slides": [
+  {
+   "tipo": "portada",
+   "etiqueta": "Dinero",
+   "titulo": "Ahorra *sin sufrir*",
+   "dibujo": [
+    [
+     "elipse",
+     14,
+     84,
+     86,
+     96,
+     "claro",
+     "none"
+    ],
+    [
+     "rect",
+     18,
+     70,
+     50,
+     84,
+     6,
+     "acento",
+     "tinta"
+    ],
+    [
+     "rect",
+     18,
+     56,
+     50,
+     70,
+     6,
+     "claro",
+     "tinta"
+    ],
+    [
+     "rect",
+     18,
+     42,
+     50,
+     56,
+     6,
+     "acento",
+     "tinta"
+    ],
+    [
+     "rect",
+     54,
+     70,
+     86,
+     84,
+     6,
+     "claro",
+     "tinta"
+    ],
+    [
+     "rect",
+     54,
+     56,
+     86,
+     70,
+     6,
+     "acento",
+     "tinta"
+    ],
+    [
+     "linea",
+     [
+      24,
+      32,
+      44,
+      18,
+      58,
+      26,
+      82,
+      8
+     ],
+     "acento",
+     {
+      "grosor": 6
+     }
+    ],
+    [
+     "poligono",
+     [
+      72,
+      6,
+      88,
+      4,
+      84,
+      20
+     ],
+     "acento",
+     "none"
+    ]
+   ]
+  },
+  {
+   "tipo": "punto",
+   "num": 1,
+   "titulo": "La regla de las *24 horas*",
+   "texto": "¿Lo quieres? Espera un día.",
+   "dibujo": [
+    [
+     "circulo",
+     50,
+     54,
+     40,
+     "claro",
+     "tinta"
+    ],
+    [
+     "circulo",
+     50,
+     54,
+     31,
+     "fondo",
+     "tinta"
+    ],
+    [
+     "linea",
+     [
+      50,
+      54,
+      50,
+      33
+     ],
+     "tinta"
+    ],
+    [
+     "linea",
+     [
+      50,
+      54,
+      65,
+      62
+     ],
+     "acento",
+     {
+      "grosor": 5
+     }
+    ],
+    [
+     "rect",
+     42,
+     6,
+     58,
+     14,
+     3,
+     "acento",
+     "tinta"
+    ],
+    [
+     "circulo",
+     50,
+     54,
+     4,
+     "tinta",
+     "none"
+    ]
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Guárdalo y *empieza hoy*",
+   "cta": "Síguenos",
+   "dibujo": [
+    [
+     "poligono",
+     [
+      26,
+      8,
+      74,
+      8,
+      74,
+      92,
+      50,
+      72,
+      26,
+      92
+     ],
+     "acento",
+     "none"
+    ]
+   ]
+  }
+ ]
+}

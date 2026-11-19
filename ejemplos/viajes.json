@@ -1,0 +1,99 @@
+{
+ "marca": {
+  "usuario": "@mochilaligera",
+  "colores": {
+   "fondo": "#EFF6FF",
+   "tinta": "#0F172A",
+   "acento": "#2563EB"
+  }
+ },
+ "plantilla": "minimal",
+ "formato": "instagram",
+ "slides": [
+  {
+   "tipo": "portada",
+   "etiqueta": "Viajes",
+   "titulo": "Viaja con *una mochila*",
+   "dibujo": [
+    [
+     "rect",
+     22,
+     22,
+     78,
+     94,
+     16,
+     "acento",
+     "tinta"
+    ],
+    [
+     "arco",
+     50,
+     22,
+     14,
+     180,
+     360,
+     "tinta",
+     {
+      "grosor": 5
+     }
+    ],
+    [
+     "rect",
+     32,
+     56,
+     68,
+     84,
+     8,
+     "claro",
+     "tinta"
+    ],
+    [
+     "linea",
+     [
+      32,
+      66,
+      68,
+      66
+     ],
+     "tinta"
+    ],
+    [
+     "rect",
+     46,
+     40,
+     54,
+     48,
+     2,
+     "tinta",
+     "none"
+    ],
+    [
+     "curva",
+     [
+      84,
+      30,
+      90,
+      22,
+      96,
+      30
+     ],
+     "none",
+     "claro"
+    ],
+    [
+     "circulo",
+     10,
+     20,
+     5,
+     "claro",
+     "none"
+    ]
+   ]
+  },
+  {
+   "tipo": "cierre",
+   "titulo": "Menos peso, *más viaje*",
+   "cta": "Síguenos"
+  }
+ ]
+}
